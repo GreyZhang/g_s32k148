@@ -3,3 +3,4 @@
 近段时间似乎S32Kxxx的MCU开始有一定流行度了，或许工作中也会有很多接触。接下来，换一个MCU，S32K148再做一点探索，补充一下自己的知识短板。后面，我计划还是积累一点常用的功能模块在这个平台上做一个集成测试。
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/122973047][1156_S32K148 Flash例程分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/122973145][1157_S32K148 Flash相关文档解读]]
